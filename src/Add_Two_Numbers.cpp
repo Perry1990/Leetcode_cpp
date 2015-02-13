@@ -1,7 +1,7 @@
 //	Problem	:	Add Two Numbers
 //	Author	:	perry1990
 //	Date	:	2015/2/12
-//	Runtime	:	101 ms
+//	Runtime	:	60 ms
 /*
 You are given two linked lists representing two non-negative numbers.
 The digits are stored in reverse order and each of their nodes contain a single digit.
